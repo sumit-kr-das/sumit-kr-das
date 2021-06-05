@@ -43,11 +43,11 @@
 
 <img align="left" alt="Mr. Sumit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumit-kr-das&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/
+[website]: https://github.com/sumit-kr-das
 [twitter]: https://twitter.com/Mr_SumitKrDas
 [facebook]:https://www.facebook.com/sumitkumar.das.984991
 [instagram]: https://www.instagram.com/mr_sumit_kr_das/
-[webdevplaylist]: https://github.com/
-[jsplaylist]: https://github.com/
-[cssplaylist]: https://github.com/
-[pizzaseries]: https://github.com/
+[webdevplaylist]: https://github.com/sumit-kr-das
+[jsplaylist]: https://github.com/sumit-kr-das
+[cssplaylist]: https://github.com/sumit-kr-das
+[pizzaseries]: https://github.com/sumit-kr-das
