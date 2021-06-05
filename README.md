@@ -2,7 +2,7 @@
 
 ## I'm a Full-stack Software Developer!
 - 🔭 I am currently pursuing my bachelor's degree 
-- ⚡ Fun fact: I love to listening music and watch movies
+- ⚡ I love listening to music and watching movies
 
 --- 
 ### Connect with me:
