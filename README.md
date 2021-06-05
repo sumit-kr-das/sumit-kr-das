@@ -46,7 +46,7 @@
 [website]: https://github.com/
 [twitter]: https://twitter.com/Mr_SumitKrDas
 [facebook]:https://www.facebook.com/sumitkumar.das.984991
-[instagram]: mobile_photograph_21
+[instagram]: https://www.instagram.com/mobile_photograph_21
 [webdevplaylist]: https://github.com/
 [jsplaylist]: https://github.com/
 [cssplaylist]: https://github.com/
