@@ -41,7 +41,12 @@
 ---
 
 
-<img align="left" alt="Mr. Sumit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sumit-kr-das&show_icons=true&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sumit-kr-das&show_icons=true&theme=vue-dark" />
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kr-das&layout=compact&theme=radical" />
+
 
 [website]: https://github.com/sumit-kr-das
 [twitter]: https://twitter.com/Mr_SumitKrDas
