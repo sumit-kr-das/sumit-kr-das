@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Algorithm**
 
-- 🤝 I’m looking for help with **Any Frontend Project**
+- 🤝 I’m looking for help with **MERN**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **contact.sumitkrdas@gmail.com**
 
