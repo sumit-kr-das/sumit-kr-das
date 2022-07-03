@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-kr-das&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-kr-das" /> </p>
 
 
-- 🌱 I’m currently learning **Algorithm**
+- 🌱 I’m currently learning **Algorithm in full Potential**
 
 - 🤝 I’m looking for help with **MERN**
 
